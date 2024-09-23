@@ -1,6 +1,6 @@
 # Unit Converter (PyQt5 Application)
 
-![App Icon](https://github.com/NSTechBytes/Projects-Templates/blob/main/Applications/Unit%20Converter/Unit%20Converter.png)
+
 
 ## Overview
 
@@ -16,7 +16,7 @@ This is a PyQt5-based desktop application for converting units across various ca
 
 ## Screenshots
 
-*Here you can place some screenshots of the application, showing its interface and functionality.*
+![App Icon](https://github.com/NSTechBytes/Projects-Templates/blob/main/Applications/Unit%20Converter/Unit%20Converter.png)
 
 ## Requirements
 
